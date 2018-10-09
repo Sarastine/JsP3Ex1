@@ -1,0 +1,15 @@
+body {
+	background-color: #333;
+}
+h1, h2 {
+	color: #080;
+	text-align: center;
+}
+.RedBorder {
+	border : 3px solid red;
+}
+#image1 {
+	margin-left: auto;
+	margin-right: auto;
+	display: block;
+}
